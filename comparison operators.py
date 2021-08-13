@@ -1,3 +1,4 @@
+"""
 num1 = 2
 num2 = 3
 num3 = num1 == num2
@@ -42,3 +43,19 @@ num20 = 3
 num21 = num19 <= num20
 print(num21)
 #it will return true cause 3 is greater than 2 and also their value are not same
+"""
+
+today = "Tuesday"
+today2 = "Tuesday"
+today3 = today2 == today2
+today3 = not(today2 == today2)
+print(today3)
+
+
+
+
+
+
+
+
+
