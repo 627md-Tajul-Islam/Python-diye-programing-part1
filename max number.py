@@ -11,20 +11,17 @@ elif n2 > n1 and n2 > n3:
 
 else:
      print("Max Number: ", n3)
-"""
+
 
 # another method
-n4 = 30
-n5 = 40
-n6 = 50
-if n4 > n5:
-   max = n4
-   print("Max", n4)
-else  :
-    max = n5
-    print("Max", n5)
-if n6 > max:
-   max = n6
-   print("Max", n6)
-   
-"""
+num1 = 60
+num2 = 70
+num3 = 80
+
+if num1 > num2:
+    max = num1
+else:
+    max = num2
+if num3 > max:
+    max = num3
+print("Max : ", max)
