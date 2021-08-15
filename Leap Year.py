@@ -44,3 +44,13 @@ elif year%4 == 0:
 else:
     print("No")
 
+#Method 4
+year = input("Enter Year :")
+year = int(year)
+
+if year % 100 !=0 and year%4==0:
+    print("yes")
+elif year%100 == 0 and year%400 ==0:
+    print("yes")
+else:
+    print("No")
