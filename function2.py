@@ -15,7 +15,7 @@ def myFunction(y):
 
 x = 30
 myFunction(x)
- """
+
 
 def myFunction(y=10):
     print("y =",y)
@@ -23,3 +23,16 @@ def myFunction(y=10):
 x = 20
 myFunction(x)
 myFunction()
+ """
+
+def myFunction(x, y=10, z=3):
+    print("x =", x,"y =", y,"z =", z)
+
+x = 5
+y = 6
+z = 7
+
+
+myFunction(x,y,z)
+myFunction(x,y)
+myFunction(x)
