@@ -1,3 +1,4 @@
+"""
 def myFunc(x):
     print("Inside myFunction",x)
     x = 10
@@ -14,3 +15,11 @@ def myFunction(y):
 
 x = 30
 myFunction(x)
+ """
+
+def myFunction(y=10):
+    print("y =",y)
+
+x = 20
+myFunction(x)
+myFunction()
