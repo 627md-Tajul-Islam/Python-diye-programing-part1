@@ -24,8 +24,16 @@ print(add(10,90))
 
 def sub(x,y):
     return x - y
-
+#method 1
 num1 = 100
 num2 = 99
 result = sub(num1,num2)
 print(result)
+
+#method 2
+number1 = 100
+number2 = 100
+print(sub(number1,number2))
+
+#method 3
+print(sub(10,5))
