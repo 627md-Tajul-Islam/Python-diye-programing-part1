@@ -21,3 +21,11 @@ print(add(n1,n2))
 
 # output 4
 print(add(10,90))
+
+def sub(x,y):
+    return x - y
+
+num1 = 100
+num2 = 99
+result = sub(num1,num2)
+print(result)
