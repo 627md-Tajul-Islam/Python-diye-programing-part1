@@ -51,9 +51,17 @@ myfunc(y=a,z=b,x=c)
 
 
 
+def myFunc(x,y=10,z=0):
+    print("x =", x, "y =", y, "z =", z)
 
+x = 5
+y = 6
+z = 7
 
-
-
-
-
+myFunc(x,y,z)
+myFunc(x)
+myFunc(y)
+myFunc(z)
+myFunc(x,y)
+myFunc(x,z)
+myFunc(x,z)
