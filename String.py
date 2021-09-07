@@ -32,3 +32,6 @@ print(con[7])
 print(con[8])
 print(con[9])
 print(con[10])
+
+for c in con:
+    print(c) # loop
