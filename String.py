@@ -59,3 +59,7 @@ print(new)
 text = "hello"
 text = text.replace("hello","Hello")
 print(text)
+
+text = "hello"
+text = text.replace("hello","Hello man")
+print(text)
