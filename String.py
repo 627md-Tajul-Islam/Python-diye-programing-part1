@@ -35,3 +35,5 @@ print(con[10])
 
 for c in con:
     print(c) # loop
+
+c = ['a','b','c']
