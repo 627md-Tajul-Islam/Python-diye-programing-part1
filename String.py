@@ -55,3 +55,7 @@ print(b)
 country = "North korea"
 new = country.replace("North", "South") # replaced
 print(new)
+
+text = "hello"
+text = text.replace("hello","Hello")
+print(text)
