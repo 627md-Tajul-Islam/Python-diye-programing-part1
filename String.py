@@ -18,4 +18,4 @@ s = "Dimik's"
 print(s)
 
 s = 'Tajul\'s'
-print(s)
+print(s) #another way
