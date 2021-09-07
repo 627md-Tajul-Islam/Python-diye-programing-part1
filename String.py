@@ -16,3 +16,6 @@ print(b) # no space means 0
 
 s = "Dimik's"
 print(s)
+
+s = 'Tajul\'s'
+print(s)
