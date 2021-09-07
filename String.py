@@ -42,3 +42,6 @@ print(c[1])
 
 desh = "Afghan" + "istan"
 print(desh)
+
+x = "10" + "0"
+print(x)
