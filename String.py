@@ -37,3 +37,5 @@ for c in con:
     print(c) # loop
 
 c = ['a','b','c']
+print(c)
+print(c[1])
