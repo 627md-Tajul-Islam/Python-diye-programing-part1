@@ -12,4 +12,4 @@ print(b)  #space in string means 1
 
 s = ""
 b = len(s)
-print(b)
+print(b) # no space means 0
