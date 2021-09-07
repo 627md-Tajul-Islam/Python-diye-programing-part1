@@ -19,3 +19,12 @@ print(s)
 
 s = 'Tajul\'s'
 print(s) #another way
+
+con = "Tajul Islam"
+print(con[0])
+print(con[1])
+print(con[2])
+print(con[3])
+print(con[4])
+print(con[5])
+print(con[6])
