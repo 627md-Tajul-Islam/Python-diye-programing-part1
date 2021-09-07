@@ -45,3 +45,7 @@ print(desh)
 
 x = "10" + "0"
 print(x)
+
+con = "Bangladesh"
+a = con.find("a")
+print(a) #  it will return output in the o,1 format
