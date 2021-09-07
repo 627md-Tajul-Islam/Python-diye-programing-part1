@@ -53,5 +53,5 @@ b = con.find("t") # cause its not in the string
 print(b)
 
 country = "North korea"
-new = country.replace("North", "South")
+new = country.replace("North", "South") # replaced
 print(new)
