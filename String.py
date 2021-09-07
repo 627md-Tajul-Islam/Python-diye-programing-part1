@@ -49,3 +49,5 @@ print(x)
 con = "Bangladesh"
 a = con.find("a")
 print(a) #  it will return output in the o,1 format
+b = con.find("t") # cause its not in the string
+print(b)
