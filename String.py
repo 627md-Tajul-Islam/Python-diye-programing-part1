@@ -39,3 +39,6 @@ for c in con:
 c = ['a','b','c']
 print(c)
 print(c[1])
+
+desh = "Afghan" + "istan"
+print(desh)
