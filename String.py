@@ -111,3 +111,7 @@ print(t) # check if its starts with the 1st one
 s = "Tajul Islam"
 t = s.endswith("Islam")
 print(t) # check if its ends with the last one
+
+s = "Tajul Islam"
+t = s.endswith("Isla")
+print(t) # check if its ends with the last one
