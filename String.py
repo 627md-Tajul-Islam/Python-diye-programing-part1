@@ -80,3 +80,5 @@ print(text) # left side strip
 text = " this is a string. "
 new_text = text.rstrip()
 print(new_text)
+
+s1 = "Bangladesh"
