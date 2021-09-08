@@ -65,9 +65,13 @@ text = text.replace("hello","Hello man") # new
 print(text)
 
 text = " this is a space. man"
-text = text.lstrip()
+text = text.strip()
 print(text) # full strip from both side
 
 text = " this is a space  made"
 text = text.rstrip()
+print(text) # right side strip
+
+text = " this is a space  made"
+text = text.lstrip()
 print(text) # right side strip
