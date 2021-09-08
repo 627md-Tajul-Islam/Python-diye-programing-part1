@@ -98,4 +98,4 @@ for word in words:
 
 str = "This is"
 str = str.count("is")
-print(str)
+print(str) # count
