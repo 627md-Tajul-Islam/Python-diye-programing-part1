@@ -88,3 +88,6 @@ print(up) # upper case
 s2 = "BANGLADESH"
 lo = s2.lower()
 print(lo) # lower case
+
+str = "I    am   a programmer. "
+word = s
