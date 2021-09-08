@@ -67,3 +67,7 @@ print(text)
 text = " this is a space"
 text = text.lstrip()
 print(text) # full strip
+
+text = " this is a space  "
+text = text.rstrip()
+print(text) # full strip
