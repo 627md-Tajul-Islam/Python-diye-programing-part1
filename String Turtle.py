@@ -8,6 +8,6 @@ elif name.startswith("Sree"):
     print("Get in hell")
 else:
     name = name.capitalize()
-    str = "Assalamualaikum" + name + "May Allah Bless You"
+    str = "Assalamualaikum" + " " + name + " " + "May Allah Bless You"
     print(str)
 turtle.exitonclick()
