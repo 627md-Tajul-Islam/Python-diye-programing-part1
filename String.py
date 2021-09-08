@@ -74,4 +74,4 @@ print(text) # right side strip
 
 text = " this is a space  made"
 text = text.lstrip()
-print(text) # right side strip
+print(text) # left side strip
