@@ -90,5 +90,8 @@ lo = s2.lower()
 print(lo) # lower case
 
 str = "I    am   a programmer. "
-word = str.split()
-print(word)
+words = str.split()
+print(words)
+
+for word in words:
+    print(word)
