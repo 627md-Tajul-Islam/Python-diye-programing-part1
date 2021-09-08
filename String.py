@@ -70,4 +70,4 @@ print(text) # full strip from both side
 
 text = " this is a space  made"
 text = text.rstrip()
-print(text) # full strip
+print(text) # right side strip
