@@ -95,3 +95,7 @@ print(words)
 
 for word in words:
     print(word)
+
+str = "This is"
+str = str.count("is")
+print(str)
