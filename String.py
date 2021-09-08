@@ -102,4 +102,8 @@ print(str) # count
 
 s = "Tajul Islam"
 t = s.startswith("Tajul")
-print(t)
+print(t) # check if its starts with the 1st one
+
+s = "Tajul Islam"
+t = s.startswith("Rajul")
+print(t) # check if its starts with the 1st one
