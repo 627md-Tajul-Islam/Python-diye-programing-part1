@@ -63,3 +63,5 @@ print(text)
 text = "hello"
 text = text.replace("hello","Hello man") # new
 print(text)
+
+text = " this is a space"
