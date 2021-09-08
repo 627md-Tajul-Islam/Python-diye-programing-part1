@@ -83,4 +83,4 @@ print(new_text)
 
 s1 = "Bangladesh"
 up = s1.upper()
-print(up)
+print(up) # upper case
