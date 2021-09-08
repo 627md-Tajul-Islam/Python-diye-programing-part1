@@ -85,6 +85,6 @@ s1 = "Bangladesh"
 up = s1.upper()
 print(up) # upper case
 
-s2 = "Bangladesh"
-up = s2.lower()
-print(up) # upper case
+s2 = "BANGLADESH"
+lo = s2.lower()
+print(lo) # lower case
