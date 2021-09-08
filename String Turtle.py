@@ -10,4 +10,4 @@ else:
     name = name.capitalize()
     str = "Assalamualaikum" + name + "May Allah Bless You"
     print(str)
-
+turtle.exitonclick()
