@@ -99,3 +99,7 @@ for word in words:
 str = "This is"
 str = str.count("is")
 print(str) # count
+
+s = "Tajul Islam"
+t = s.startswith("Tajul")
+print(t)
