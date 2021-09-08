@@ -75,3 +75,7 @@ print(text) # right side strip
 text = " this is a space  made"
 text = text.lstrip()
 print(text) # left side strip
+
+# new test
+text = " this is a string. "
+new_text = text.rstrip()
