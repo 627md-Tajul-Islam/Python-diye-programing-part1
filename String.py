@@ -64,10 +64,10 @@ text = "hello"
 text = text.replace("hello","Hello man") # new
 print(text)
 
-text = " this is a space"
+text = " this is a space. man"
 text = text.lstrip()
-print(text) # full strip
+print(text) # full strip from both side
 
-text = " this is a space  "
+text = " this is a space  made"
 text = text.rstrip()
 print(text) # full strip
