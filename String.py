@@ -65,3 +65,5 @@ text = text.replace("hello","Hello man") # new
 print(text)
 
 text = " this is a space"
+text = text.lstrip()
+print(text)
