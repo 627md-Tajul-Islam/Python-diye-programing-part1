@@ -82,3 +82,5 @@ new_text = text.rstrip()
 print(new_text)
 
 s1 = "Bangladesh"
+up = s1.upper()
+print(up)
