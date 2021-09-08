@@ -79,3 +79,4 @@ print(text) # left side strip
 # new test
 text = " this is a string. "
 new_text = text.rstrip()
+print(new_text)
