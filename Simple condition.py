@@ -4,3 +4,6 @@ condition = money > fare
 print(condition)
 
 # another condition
+money = 30
+fare = 30
+condition = money >= fare
