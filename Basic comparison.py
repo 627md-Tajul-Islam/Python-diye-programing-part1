@@ -21,3 +21,9 @@ a = 2
 b = 3
 c = a < b
 print(c)
+
+ # value is not true =  true
+a = 2
+b = 3
+c = a != b
+print(c)
