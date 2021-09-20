@@ -40,7 +40,7 @@ b = 3
 c = a >= b
 print(c)
 
-# smaller than or equal
+# smaller than or equal to
 a = 2
 b = 3
 c = a <= b
