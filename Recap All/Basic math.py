@@ -22,3 +22,8 @@ b = 2
 c = a // b
 print(c)
 
+# modulas
+a = 5
+b = 2
+c = a % b
+print(c)
