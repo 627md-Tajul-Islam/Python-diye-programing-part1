@@ -15,3 +15,9 @@ a = 5
 b = 2
 c = a * b
 print(c)
+
+# only integer
+a = 5
+b = 2
+c = a // b
+print(c)
