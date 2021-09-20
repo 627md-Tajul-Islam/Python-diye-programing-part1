@@ -34,7 +34,7 @@ b = 3
 c = a != b
 print(c)
 
-# greater than or equal
+# greater than or equal to
 a = 2
 b = 3
 c = a >= b
