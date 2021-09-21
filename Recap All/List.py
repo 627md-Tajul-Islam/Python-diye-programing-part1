@@ -1,0 +1,1 @@
+Friend = ["Rakib","Rakibul","Alve","Sizan"]
