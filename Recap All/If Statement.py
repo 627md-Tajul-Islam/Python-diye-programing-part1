@@ -5,3 +5,5 @@ Saarc = [
     "Nepal",
     "India"
 ]
+
+country = input("Enter the name of the country: ")
