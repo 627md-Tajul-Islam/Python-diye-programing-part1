@@ -5,3 +5,6 @@ print("Number of Friend:", len(Friend))
 
 a = "Rakib" in Friend
 print(a)
+
+b = "Tuhin" in Friend
+print(b)
