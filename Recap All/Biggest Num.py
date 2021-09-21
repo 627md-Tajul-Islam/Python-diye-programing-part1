@@ -9,3 +9,5 @@ else:
 
 if n3 > maxN:
     maxN = n3
+
+print("Max number is : ", maxN)
