@@ -8,3 +8,5 @@ else:
     print("THis is not a leap year")
 
 print("End")
+
+# 2nd way
