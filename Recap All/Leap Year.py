@@ -5,4 +5,4 @@ if year % 4 == 0:
 else:
     print("THis is not a leap year")
 
-print("Go to hell")
+print("End")
