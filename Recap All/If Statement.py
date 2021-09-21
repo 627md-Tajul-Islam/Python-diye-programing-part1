@@ -12,3 +12,5 @@ if country in Saarc:
 
 else:
     print("Not a member")
+
+print("Program terminated")
