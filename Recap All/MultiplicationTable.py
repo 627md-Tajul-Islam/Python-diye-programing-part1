@@ -3,3 +3,4 @@ multiply = 1
 while multiply <= 10:
     print(number, "X", multiply, "=", number*multiply)
     multiply = multiply + 1
+#printing namta
