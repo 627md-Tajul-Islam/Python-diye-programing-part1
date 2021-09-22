@@ -1,6 +1,7 @@
 import turtle
 
-turtle.shape("turtle")
+turtle.shape("triangle")
+turtle.speed(1)
 
 turtle.forward(100)
 turtle.left(90)
@@ -9,3 +10,4 @@ turtle.left(90)
 turtle.forward(100)
 turtle.left(90)
 turtle.forward(100)
+turtle.exitonclick()
