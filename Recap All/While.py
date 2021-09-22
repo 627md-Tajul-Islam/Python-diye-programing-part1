@@ -5,3 +5,5 @@ while i < 11:
 
 j = 10
 while j >= 0:
+    j = j - 1
+    print(j)
