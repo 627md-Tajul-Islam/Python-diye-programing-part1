@@ -1,4 +1,4 @@
 number = int(input("Give a positive Number: "))
-
-m = 1
-while m <= 10:
+multiply = 1
+while multiply <= 10:
+    print(number, "X", multiply, "=", number*multiply)
