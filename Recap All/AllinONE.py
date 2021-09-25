@@ -4,4 +4,5 @@ while not kill:
     num2 = int(input("Enter 2nd Number: "))
 
     while True:
-        operation = input("Please enter add/sub/multiply/division (quit to exit):  ")
+        action = input("Please enter add/sub/multiply/division (quit to exit):  ")
+        if action
