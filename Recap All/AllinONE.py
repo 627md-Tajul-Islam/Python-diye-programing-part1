@@ -11,5 +11,5 @@ while not kill:
         if action not in ["add","sub","multiple","division"]:
             print("Action Unknown !")
         if action == "add":
-            print("Sum of 2 numbers is:" num1 + num2)
+            print("Sum of 2 numbers is:", num1 + num2)
             break
