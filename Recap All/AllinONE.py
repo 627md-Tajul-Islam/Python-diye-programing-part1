@@ -19,3 +19,5 @@ while not kill:
             print("Multiplication of 2 numbers is ", num1 * num2)
         if action == "division":
             print("Division of 2 numbers is:", num1 / num2)
+
+# success
