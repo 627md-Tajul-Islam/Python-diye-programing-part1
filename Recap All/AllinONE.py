@@ -8,4 +8,5 @@ while not kill:
         if action == "quit":
             kill = True
             break
-        if action not in ["add","sub","multiple","division"]
+        if action not in ["add","sub","multiple","division"]:
+            print("Action Unknown")
