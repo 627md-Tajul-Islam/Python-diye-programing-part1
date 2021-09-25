@@ -17,4 +17,5 @@ while not kill:
             print("Subtraction of 2 numbers is ", num1 - num2)
         if action == "multiply":
             print("Multiplication of 2 numbers is ", num1 * num2)
-
+        if action == "division":
+            print("Division of 2 numbers is:", num1 / num2)
