@@ -13,3 +13,4 @@ while not kill:
         if action == "add":
             print("Sum of 2 numbers is:", num1 + num2)
             break
+        if action == "sub":
