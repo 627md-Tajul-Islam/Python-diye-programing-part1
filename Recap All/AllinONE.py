@@ -5,4 +5,6 @@ while not kill:
 
     while True:
         action = input("Please enter add/sub/multiply/division (quit to exit):  ")
-        if action
+        if action == "quit":
+            kill = True
+            break
