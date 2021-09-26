@@ -8,3 +8,4 @@ myFunction(x = a, z =b)
 a = 12
 b = 13
 c = 14
+myFunction(y=a,z=b,x=c)
