@@ -3,3 +3,5 @@ def test(li):
 
 my_list = [1,2,3,4]
 print("Before function call", my_list)
+test(my_list)
+print("After function call", my_list)
