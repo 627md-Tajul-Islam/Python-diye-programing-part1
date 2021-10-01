@@ -4,3 +4,5 @@ for c in country:
 
 a = country.find("Ban")
 print(a)
+
+name = "Pratasha khandoker"
