@@ -7,3 +7,4 @@ print(a)
 
 name = "Pratasha khandoker"
 a = name.replace("khandoker", "islam")
+print(a)
