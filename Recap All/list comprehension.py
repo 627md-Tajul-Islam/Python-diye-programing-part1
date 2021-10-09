@@ -4,3 +4,5 @@ newLi = []
 for x in list:
     newLi.append(2 * x)
 print()
+
+# list comprehesion
