@@ -14,3 +14,5 @@ commonInOne = A ^ B
 print(commonInOne)
 
 # minus means  it will present in one set
+C = A - B
+print(C)
