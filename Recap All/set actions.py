@@ -12,3 +12,5 @@ print(union)
 # it means it will be present in one set
 commonInOne = A ^ B
 print(commonInOne)
+
+# minus means  it will present in one set
