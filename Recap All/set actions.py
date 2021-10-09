@@ -8,3 +8,6 @@ print(intersection)
 # Union means taking all common items that are present in both sets
 union = A | B
 print(union)
+
+# it means it will be present in one set
+commonInOne =
