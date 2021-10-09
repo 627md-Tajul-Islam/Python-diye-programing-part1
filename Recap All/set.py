@@ -6,3 +6,4 @@ A = set(list)
 print(A)
 
 B = set(tuple)
+print(B)
