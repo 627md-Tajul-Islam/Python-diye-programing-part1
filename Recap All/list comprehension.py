@@ -6,3 +6,6 @@ for x in list:
 print()
 
 # list comprehesion
+
+newLi = [2 * x for x in li]
+print(newLi)
