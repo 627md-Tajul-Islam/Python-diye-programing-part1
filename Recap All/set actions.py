@@ -12,6 +12,3 @@ print(union)
 # it means it will be present in one set
 commonInOne = A ^ B
 print(commonInOne)
-
-common2 = B ^ A 
-print(common2)
