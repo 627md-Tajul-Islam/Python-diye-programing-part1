@@ -5,6 +5,6 @@ B = {2,4,6,8,10}
 intersection = A & B
 print(intersection)
 
-# Union means taking
+# Union means taking all common items that are present in both sets
 union = A | B
 print(union)
